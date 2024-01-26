@@ -1,0 +1,12 @@
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/bin/Debug/net8.0/Contracts.deps.json
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/bin/Debug/net8.0/Contracts.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/bin/Debug/net8.0/Contracts.pdb
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.sourcelink.json
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/refint/Contracts.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/Contracts.pdb
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Contracts/obj/Debug/net8.0/ref/Contracts.dll

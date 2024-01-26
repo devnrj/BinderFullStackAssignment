@@ -1,0 +1,16 @@
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/bin/Debug/net8.0/Application.deps.json
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/bin/Debug/net8.0/Application.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/bin/Debug/net8.0/Application.pdb
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.sourcelink.json
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.pdb
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/bin/Debug/net8.0/Domain.dll
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/bin/Debug/net8.0/Domain.pdb
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/ritesh/Documents/Neeraj/Assignment/FullCart/FullCart/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
