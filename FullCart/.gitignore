@@ -1,13 +1,18 @@
 #compiled output
-/Api/obj
-/Infrastructure/obj
-/Application/obj
-/Contracts/obj
-/Domain/obj
+Api/obj
+Infrastructure/obj
+Application/obj
+Contracts/obj
+Domain/obj
 
 #binaries
-/Api/bin
-/Infrastructure/bin
-/Application/bin
-/Contracts/bin
-/Domain/bin
+Api/bin
+Infrastructure/bin
+Application/bin
+Contracts/bin
+Domain/bin
+
+
+*.dll
+*.pdb
+

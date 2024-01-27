@@ -1,0 +1,15 @@
+#compiled output
+/FullCart/Api/obj
+/FullCart/Infrastructure/obj
+/FullCart/Application/obj
+/FullCart/Contracts/obj
+/FullCart/Domain/obj
+
+#binaries
+/FullCart/Api/bin
+/FullCart/Infrastructure/bin
+/FullCart/Application/bin
+/FullCart/Contracts/bin
+/FullCart/Domain/bin
+
+FullCart/FullCart/Api/bin
